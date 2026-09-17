@@ -7,13 +7,13 @@ Built with Go and [Bubble Tea](https://github.com/charmbracelet/bubbletea). Linu
 ## Install
 
 ```bash
-go install github.com/YOUR_USER/portpeek@latest
+go install github.com/Ichihiroy/portpeek@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/YOUR_USER/portpeek
+git clone https://github.com/Ichihiroy/portpeek
 cd portpeek
 go build -o portpeek .
 ```
