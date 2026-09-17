@@ -6,7 +6,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"portpeek/internal/ui"
+	"github.com/Ichihiroy/portpeek/internal/ui"
 )
 
 func main() {

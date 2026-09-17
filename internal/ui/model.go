@@ -8,7 +8,7 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"portpeek/internal/ports"
+	"github.com/Ichihiroy/portpeek/internal/ports"
 )
 
 var (

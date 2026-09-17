@@ -1,4 +1,4 @@
-module portpeek
+module github.com/Ichihiroy/portpeek
 
 go 1.27.1
 
